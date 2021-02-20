@@ -10,9 +10,9 @@
 </div>
 
 <p align="center">
-    <a href="#devfinances-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#layout-">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#info">Informações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#license">Licença</a>
 </p>
@@ -23,7 +23,7 @@
 
 ### 🎯 Breve Resumo
 
-Projeto desenvolvido para controle pessoal de gastos, com interface intuitiva.
+Projeto desenvolvido para controle pessoal de gastos, com interface intuitiva de uma olhada aqui: [Pojeto](https://maratona-discover-seven.vercel.app/)<a id="Projeto"></a>
 
 #### Funcionalidades
 

@@ -30,6 +30,7 @@ Projeto desenvolvido para controle pessoal de gastos, com interface intuitiva de
 * Site para administrar ganhos e gastos (controle financeiro)
 * Cadastro e exclusão de transações
 * Visualização do saldo de entrada e saída.
+* Remover Transações
 
 ---
 
@@ -37,13 +38,17 @@ Projeto desenvolvido para controle pessoal de gastos, com interface intuitiva de
 
 #### Desktop Screenshot
 
-<div id="center">
+<img src="https://github.com/savionascimentodev/MaratonaDiscover/blob/main/assets/DevFinanceFull.png" width="550">
 
-![DevFinance](https://github.com/savionascimentodev/MaratonaDiscover/blob/main/assets/DevFinanceFull.png?raw=true)
+<br>
 
-</div>
+<img src="https://github.com/savionascimentodev/MaratonaDiscover/blob/main/assets/DevFinanceFull2.png" width="550">
 
 #### Mobile Screenshot
+
+<img src="https://github.com/savionascimentodev/MaratonaDiscover/blob/main/assets/DevFinanceMobile.png" width="180">
+
+<img src="https://github.com/savionascimentodev/MaratonaDiscover/blob/main/assets/DevFinanceMobile2.png" width="180" align="center">
 
 ### Tecnologias 🚀 <a id="tecnologias"></a>
 

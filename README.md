@@ -1,7 +1,13 @@
+* [ 👤 Autor 👤 ](#autor)
+* [ 📷 Preview 📷](#preview)
+* [ 🚀 Tecnologias 🚀](#tecnologias)
+* [ 📝 License ](#license)
+* [ ℹ️ Informações ℹ️](#info)
+
 # MaratonaDiscover
  Site criado na MaratonaDiscover da Rocketseat
 
-<h1 align="center"> 👨🏽‍💻 Projeto Dev Finances 💲<a id="css"></a> </h1>
+<h1 align="center"> 👨🏽‍💻 Projeto Dev Finances 💲<a id="top"></a> </h1> 
 
 <div align="center">
 
@@ -12,10 +18,10 @@
 
 </div>
 
-![GitHub forks](https://img.shields.io/github/forks/savionascimentodev/Cascating-Style-Sheets?style=flat) 
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/savionascimentodev/Cascating-Style-Sheets?style=flat) 
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/savionascimentodev/Cascating-Style-Sheets?style=flat)
-[![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/Cascating-Style-Sheets?style=social)](https://github.com/savionascimentodev/Cascating-Style-Sheets/stargazers) <br>
+![GitHub forks](https://img.shields.io/github/forks/savionascimentodev/MaratonaDiscover?style=flat) 
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/savionascimentodev/MaratonaDiscover?style=flat) 
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/savionascimentodev/MaratonaDiscover?style=flat)
+[![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/MaratonaDiscover?style=social)](https://github.com/savionascimentodev/Cascating-Style-Sheets/stargazers) <br>
 
 
 [🏠 Home](https://github.com/savionascimentodev/Cascating-Style-Sheets)
@@ -36,19 +42,37 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 
 ---
 
-## 📫 Contribuindo para o projeto
+### Tecnologias 🚀 <a id="tecnologias"></a>
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-F06426?style=flat-square&logoColor=fff&logo=HTML5)
+
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
+![CSS3](https://img.shields.io/badge/-CSS3-5DAFEF?style=flat-square&logoColor=fff&logo=CSS3)
+
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)
+
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+
+---
+
+### 📫 Contribuindo para o projeto
 
 Quer fazer parte desse projeto? Clique [AQUI](https://github.com/savionascimentodev/MaratonaDiscover/blob/main/Contribuing.md) e leia como contribuir.
 
 ---
 
-### 📝 License
+### 📝 License <a id="license"></a>
 
 Copyright © 2021 [Savio Nascimento](https://github.com/savionascimentodev).<br/>
 
 ---
 
-### 👤 Author
+### 👤 Autor <a id="autor"></a>
 
 **Savio Nascimento**
 
@@ -58,7 +82,7 @@ Copyright © 2021 [Savio Nascimento](https://github.com/savionascimentodev).<br/
 
 ---
 
-### ℹ️ Informações do projeto
+### ℹ️ Informações do projeto <a id="info"></a>
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.MaratonaDiscover)
 ![downloads](https://img.shields.io/github/downloads/savionascimentodev/MaratonaDiscover/total)
@@ -69,4 +93,4 @@ Copyright © 2021 [Savio Nascimento](https://github.com/savionascimentodev).<br/
 
 ---
 
-[⬆️ Topo](#css) <br>
+[⬆️ Topo](#top) <br>

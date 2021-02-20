@@ -23,13 +23,12 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/savionascimentodev/MaratonaDiscover?style=flat)
 [![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/MaratonaDiscover?style=social)](https://github.com/savionascimentodev/Cascating-Style-Sheets/stargazers) <br>
 
-[🏠 Home](https://github.com/savionascimentodev/MaratonaDiscover)
+[🏠 Home](https://github.com/savionascimentodev)
 
 ---
 
 <div align="center">
 
- <img src="https://github.com/savionascimentodev/Projeto-Site/blob/main/imagens/1_IeNwVwWspGw3aL4YXEsf0A.png?raw=true" width=550>
 
 </div>
 
@@ -43,7 +42,6 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 
 ### Tecnologias 🚀 <a id="tecnologias"></a>
 
-
 ![HTML5](https://img.shields.io/badge/-HTML5-F06426?style=flat-square&logoColor=fff&logo=HTML5)
 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -55,7 +53,6 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
 
 ---
 
@@ -82,8 +79,7 @@ Copyright © 2021 [Savio Nascimento](https://github.com/savionascimentodev).<br/
 
 ### ℹ️ Informações do projeto <a id="info"></a>
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.MaratonaDiscover?&color=lightseagreen)
-![downloads](https://img.shields.io/github/downloads/savionascimentodev/MaratonaDiscover/total?&color=lightseagreen)
+![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.MaratonaDiscover)
 ![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/MaratonaDiscover?&color=lightseagreen) 
 ![repo-size](https://img.shields.io/github/repo-size/savionascimentodev/MaratonaDiscover?&color=lightseagreen) 
 <img src="https://img.shields.io/github/languages/count/savionascimentodev/MaratonaDiscover?color=lightseagreen&style=flat" alt="Linguagens">

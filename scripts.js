@@ -8,53 +8,52 @@ const Modal = {
         .classList.remove('active')
     }
 }
-
 const Storage = {
-    get(){
-        return JSON.parse(localStorage.getItem('Dev.Finances:transactions')) || []
+    get() {
+        return JSON.parse(localStorage.getItem("dev.finances:transactions")) || []
     },
 
-    set(transactions){
-        localStorage.setItem("Dev.Finances:transactions", JSON.stringify(transactions))
+    set(transactions) {
+        localStorage.setItem("dev.finances:transactions", JSON.stringify(transactions))
     }
 }
 
-const Transaction = { 
+const Transaction = {
     all: Storage.get(),
 
     add(transaction){
         Transaction.all.push(transaction)
 
-       App.reload()
+        App.reload()
     },
 
-    remove(index){
+    remove(index) {
         Transaction.all.splice(index, 1)
 
         App.reload()
     },
 
-    incomes(){
+    incomes() {
         let income = 0;
         Transaction.all.forEach(transaction => {
-            if (transaction.amount > 0 ) {
+            if( transaction.amount > 0 ) {
                 income += transaction.amount;
             }
         })
         return income;
     },
 
-    expenses(){
+    expenses() {
         let expense = 0;
         Transaction.all.forEach(transaction => {
-            if (transaction.amount < 0 ) {
+            if( transaction.amount < 0 ) {
                 expense += transaction.amount;
             }
         })
         return expense;
     },
 
-    total(){
+    total() {
         return Transaction.incomes() + Transaction.expenses();
     }
 }

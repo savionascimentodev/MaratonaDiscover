@@ -1,12 +1,3 @@
-# MaratonaDiscover
- Site criado na MaratonaDiscover da Rocketseat
-
-* [ 👤 Autor 👤 ](#autor)
-* [ 📷 Preview 📷](#preview)
-* [ 🚀 Tecnologias 🚀](#tecnologias)
-* [ 📝 License ](#license)
-* [ ℹ️ Informações ℹ️](#info)
-
 <h1 align="center"> 👨🏽‍💻 Projeto Dev Finances 💲<a id="top"></a> </h1> 
 
 <div align="center">
@@ -18,29 +9,34 @@
 
 </div>
 
-![GitHub forks](https://img.shields.io/github/forks/savionascimentodev/MaratonaDiscover?style=flat) 
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/savionascimentodev/MaratonaDiscover?style=flat) 
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/savionascimentodev/MaratonaDiscover?style=flat)
-[![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/MaratonaDiscover?style=social)](https://github.com/savionascimentodev/Cascating-Style-Sheets/stargazers) <br>
+<p align="center">
+    <a href="#devfinances-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#layout-">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#info">Informações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#license">Licença</a>
+</p>
 
 [🏠 Home](https://github.com/savionascimentodev)
 
 ---
 
-<div align="center">
-
-
-</div>
-
----
-
 ### 🎯 Breve Resumo
 
-O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresentação (aparência) de documentos que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML e etc..). O CSS define como serão exibidos os elementos contidos no código de um documento e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
+Projeto desenvolvido para controle pessoal de gastos, com interface intuitiva.
 
+#### Funcionalidades
+
+* Site para administrar ganhos e gastos (controle financeiro)
+* Cadastro e exclusão de transações
+* Visualização do saldo de entrada e saída.
+*
+* Mudança de cor no Card 'total' - (+$0,00 verde ↑ e -$0,01 vermelho ↓)
 ---
 
 ### Tecnologias 🚀 <a id="tecnologias"></a>
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F06426?style=flat-square&logoColor=fff&logo=HTML5)
 
@@ -83,6 +79,7 @@ Copyright © 2021 [Savio Nascimento](https://github.com/savionascimentodev).<br/
 ![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/MaratonaDiscover?&color=lightseagreen) 
 ![repo-size](https://img.shields.io/github/repo-size/savionascimentodev/MaratonaDiscover?&color=lightseagreen) 
 <img src="https://img.shields.io/github/languages/count/savionascimentodev/MaratonaDiscover?color=lightseagreen&style=flat" alt="Linguagens">
+[![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/MaratonaDiscover?style=social)](https://github.com/savionascimentodev/MaratonaDiscover/stargazers) 
 
 ---
 

@@ -1,17 +1,17 @@
+# MaratonaDiscover
+ Site criado na MaratonaDiscover da Rocketseat
+
 * [ 👤 Autor 👤 ](#autor)
 * [ 📷 Preview 📷](#preview)
 * [ 🚀 Tecnologias 🚀](#tecnologias)
 * [ 📝 License ](#license)
 * [ ℹ️ Informações ℹ️](#info)
 
-# MaratonaDiscover
- Site criado na MaratonaDiscover da Rocketseat
-
 <h1 align="center"> 👨🏽‍💻 Projeto Dev Finances 💲<a id="top"></a> </h1> 
 
 <div align="center">
 
-![](https://img.shields.io/badge/license-MIT-darkcyan)
+![](https://img.shields.io/badge/license-MIT-lightseagreen)
 ![Html-5.0](https://img.shields.io/badge/Html-5.0-F16529?logo=html5&style=flat)
 ![CSS-3.0](https://img.shields.io/badge/Css-3.0-2965f1?logo=CSS3&style=flat)
 ![JavaScript](https://img.shields.io/badge/Java-Script-yellow?logo=javascript&style=flat) 
@@ -23,8 +23,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/savionascimentodev/MaratonaDiscover?style=flat)
 [![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/MaratonaDiscover?style=social)](https://github.com/savionascimentodev/Cascating-Style-Sheets/stargazers) <br>
 
-
-[🏠 Home](https://github.com/savionascimentodev/Cascating-Style-Sheets)
+[🏠 Home](https://github.com/savionascimentodev/MaratonaDiscover)
 
 ---
 
@@ -77,19 +76,17 @@ Copyright © 2021 [Savio Nascimento](https://github.com/savionascimentodev).<br/
 **Savio Nascimento**
 
 * [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/) 
-* [![Instagram Badge](https://img.shields.io/badge/-SavioNascimento-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://https://www.instagram.com/savio_nascimento_/)](https://www.instagram.com/savio_nascimento_/)
 * [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
 
 ---
 
 ### ℹ️ Informações do projeto <a id="info"></a>
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.MaratonaDiscover)
-![downloads](https://img.shields.io/github/downloads/savionascimentodev/MaratonaDiscover/total)
-![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/MaratonaDiscover) 
-![repo-size](https://img.shields.io/github/repo-size/savionascimentodev/MaratonaDiscover?&color=lightgrey) 
-<img src="https://img.shields.io/github/languages/count/savionascimentodev/MaratonaDiscover?color=purple&style=flat" alt="Linguagens">
-
+![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.MaratonaDiscover?&color=lightseagreen)
+![downloads](https://img.shields.io/github/downloads/savionascimentodev/MaratonaDiscover/total?&color=lightseagreen)
+![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/MaratonaDiscover?&color=lightseagreen) 
+![repo-size](https://img.shields.io/github/repo-size/savionascimentodev/MaratonaDiscover?&color=lightseagreen) 
+<img src="https://img.shields.io/github/languages/count/savionascimentodev/MaratonaDiscover?color=lightseagreen&style=flat" alt="Linguagens">
 
 ---
 

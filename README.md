@@ -17,9 +17,9 @@
     <a href="#license">Licença</a>
 </p>
 
-[🏠 Home](https://github.com/savionascimentodev)
-
 ---
+
+[🏠 Home](https://github.com/savionascimentodev)
 
 ### 🎯 Breve Resumo
 
@@ -30,9 +30,20 @@ Projeto desenvolvido para controle pessoal de gastos, com interface intuitiva de
 * Site para administrar ganhos e gastos (controle financeiro)
 * Cadastro e exclusão de transações
 * Visualização do saldo de entrada e saída.
-*
-* Mudança de cor no Card 'total' - (+$0,00 verde ↑ e -$0,01 vermelho ↓)
+
 ---
+
+## Layout 🚧
+
+#### Desktop Screenshot
+
+<div id="center">
+
+![DevFinance](https://github.com/savionascimentodev/MaratonaDiscover/blob/main/assets/DevFinanceFull.png?raw=true)
+
+</div>
+
+#### Mobile Screenshot
 
 ### Tecnologias 🚀 <a id="tecnologias"></a>
 

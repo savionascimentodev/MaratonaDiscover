@@ -24,4 +24,4 @@ Para contribuir com esse projeto siga estas etapas:
 
 Em caso de duvida, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-[🏠 Home](https://github.com/Savio-Nascimento/MaratonaDiscover)
+[🏠 Home](https://github.com/savionascimentodev/MaratonaDiscover)

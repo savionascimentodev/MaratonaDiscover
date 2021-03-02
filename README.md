@@ -17,7 +17,7 @@
     <a href="#license">Licença</a>
 </p>
 
----
+----
 
 [🏠 Home](https://github.com/savionascimentodev/MaratonaDiscover)
 
